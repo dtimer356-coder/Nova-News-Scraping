@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="1.0">
+  <head>
+    <title>NewsBot PRO — Global, Military, Crypto &amp; More Feeds</title>
+  </head>
+  <body>
+
+    
+    
+    
+
+    <outline text="Kawasan Eropa">
+      <outline text="BBC Europe" xmlUrl="https://feeds.bbci.co.uk/news/world/europe/rss.xml" />
+      <outline text="The Guardian Europe" xmlUrl="https://www.theguardian.com/world/europe-news/rss" />
+      <outline text="Euronews" xmlUrl="https://www.euronews.com/rss?level=theme&amp;name=news" />
+      <outline text="Reuters World" xmlUrl="https://feeds.reuters.com/reuters/worldNews" />
+    </outline>
+
+    <outline text="Kawasan Timur Tengah">
+      <outline text="Al Jazeera" xmlUrl="https://www.aljazeera.com/xml/rss/all.xml" />
+      <outline text="BBC Middle East" xmlUrl="https://feeds.bbci.co.uk/news/world/middle_east/rss.xml" />
+    <outline text="Middle East Eye" title="Middle East Eye" type="rss" xmlUrl="https://www.middleeasteye.net/rss" /><outline text="Arab News" title="Arab News" type="rss" xmlUrl="https://www.arabnews.com/rss.xml" /><outline text="Anadolu Agency World" title="Anadolu Agency World" type="rss" xmlUrl="https://www.aa.com.tr/en/rss/default?cat=world" /><outline text="Al Monitor" title="Al Monitor" type="rss" xmlUrl="https://www.al-monitor.com/rss" /><outline text="Asharq Al-Awsat" title="Asharq Al-Awsat" type="rss" xmlUrl="https://english.aawsat.com/feed" /><outline text="Gulf News" title="Gulf News" type="rss" xmlUrl="https://gulfnews.com/rss" /><outline text="Egypt Independent" title="Egypt Independent" type="rss" xmlUrl="https://egyptindependent.com/feed/" /><outline text="Jordan Times" title="Jordan Times" type="rss" xmlUrl="https://www.jordantimes.com/feed" /></outline>
+
+    <outline text="Kawasan Afrika">
+      <outline text="BBC Africa" xmlUrl="https://feeds.bbci.co.uk/news/world/africa/rss.xml" />
+      <outline text="AllAfrica" xmlUrl="https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf" />
+    </outline>
+
+    <outline text="Kawasan Asia Pasifik">
+      <outline text="ABC News Australia" xmlUrl="https://www.abc.net.au/news/feed/51120/rss.xml" />
+      <outline text="The Japan Times" xmlUrl="https://www.japantimes.co.jp/feed/" />
+      <outline text="SBS News Australia" xmlUrl="https://www.sbs.com.au/news/feed" />
+      <outline text="SCMP Asia" xmlUrl="https://www.scmp.com/rss/91/feed" />
+    </outline>
+
+    <outline text="Kawasan Asia Tenggara">
+      <outline text="Channel News Asia" xmlUrl="https://www.channelnewsasia.com/api/v1/rss-outbound-feed" />
+      <outline text="Bangkok Post" xmlUrl="https://www.bangkokpost.com/rss/data/topstories.xml" />
+      <outline text="The Star Malaysia" xmlUrl="https://www.thestar.com.my/rss/main" />
+      <outline text="Malay Mail" xmlUrl="https://www.malaymail.com/feed/rss" />
+      <outline text="The Straits Times" xmlUrl="https://www.straitstimes.com/news/world/rss.xml" />
+      <outline text="Today Online SG" xmlUrl="https://www.todayonline.com/feed" />
+    </outline>
+
+    <outline text="Kawasan Amerika">
+      <outline text="CNN World" xmlUrl="http://rss.cnn.com/rss/edition_world.rss" />
+      <outline text="New York Times World" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" />
+    </outline>
+
+    
+    
+    
+
+    <outline text="Berita Australia">
+      <outline text="ABC News Top" xmlUrl="https://www.abc.net.au/news/feed/51120/rss.xml" />
+      <outline text="ABC News World" xmlUrl="https://www.abc.net.au/news/feed/51882/rss.xml" />
+      <outline text="ABC News Business" xmlUrl="https://www.abc.net.au/news/feed/51892/rss.xml" />
+      <outline text="ABC News Politics" xmlUrl="https://www.abc.net.au/news/feed/51878/rss.xml" />
+      <outline text="9News Australia" xmlUrl="https://www.9news.com.au/rss" />
+      <outline text="SMH Top Stories" xmlUrl="https://www.smh.com.au/rss/feed.xml" />
+      <outline text="SMH Business" xmlUrl="https://www.smh.com.au/rss/business.xml" />
+      <outline text="The Guardian AU" xmlUrl="https://www.theguardian.com/australia-news/rss" />
+      <outline text="AFR" xmlUrl="https://www.afr.com/rss" />
+      <outline text="Sky News AU" xmlUrl="https://www.skynews.com.au/rss" />
+    </outline>
+
+    
+    
+    
+
+    <outline text="Militer Dunia">
+      <outline text="Defense News" xmlUrl="https://www.defensenews.com/arc/outboundfeeds/rss/category/military/" />
+      <outline text="Military Times" xmlUrl="https://www.militarytimes.com/arc/outboundfeeds/rss/category/news/" />
+      <outline text="Army Recognition" xmlUrl="https://www.armyrecognition.com/rss/rss_1_0.xml" />
+      <outline text="The War Zone" xmlUrl="https://www.thedrive.com/feeds/the-war-zone.rss" />
+      <outline text="Naval News" xmlUrl="https://www.navalnews.com/feed/" />
+      <outline text="Breaking Defense" xmlUrl="https://breakingdefense.com/feed/" />
+      <outline text="Defense One" xmlUrl="https://www.defenseone.com/rss/all/" />
+    </outline>
+
+    <outline text="Militer Negara">
+      <outline text="US Defense.gov" xmlUrl="https://www.defense.gov/Newsroom/Releases/rss/" />
+      <outline text="China Military" xmlUrl="http://eng.chinamil.com.cn/rss.xml" />
+      <outline text="Russia TASS Defense" xmlUrl="https://tass.com/defense/rss" />
+      <outline text="India Defense" xmlUrl="https://www.indiatoday.in/rss/1206578" />
+      <outline text="Malaysia Defense" xmlUrl="https://www.malaysiandefence.com/feed/" />
+      <outline text="Australia Defence" xmlUrl="https://news.defence.gov.au/rss" />
+    </outline>
+
+    
+    
+    
+
+    <outline text="Ekonomi Global">
+      <outline text="Bloomberg Markets" xmlUrl="https://feeds.bloomberg.com/markets/news.rss" />
+      <outline text="Reuters Business" xmlUrl="https://feeds.reuters.com/reuters/businessNews" />
+      <outline text="Investing.com" xmlUrl="https://www.investing.com/rss/news_25.rss" />
+      <outline text="Financial Times" xmlUrl="https://www.ft.com/?format=rss" />
+      <outline text="MarketWatch" xmlUrl="http://feeds.marketwatch.com/marketwatch/topstories/" />
+    </outline>
+
+    
+    
+    
+
+    <outline text="Crypto Global">
+      <outline text="CoinDesk" xmlUrl="https://www.coindesk.com/arc/outboundfeeds/rss/" />
+      <outline text="CoinTelegraph" xmlUrl="https://cointelegraph.com/rss" />
+      <outline text="The Block" xmlUrl="https://www.theblock.co/rss.xml" />
+      <outline text="Decrypt" xmlUrl="https://decrypt.co/feed" />
+      <outline text="Crypto Briefing" xmlUrl="https://cryptobriefing.com/feed/" />
+      <outline text="Bitcoin Magazine" xmlUrl="https://bitcoinmagazine.com/.rss/full/" />
+      <outline text="BeInCrypto" xmlUrl="https://beincrypto.com/feed/" />
+      <outline text="CryptoSlate" xmlUrl="https://cryptoslate.com/feed/" />
+      <outline text="NewsBTC" xmlUrl="https://www.newsbtc.com/feed/" />
+      <outline text="AMBCrypto" xmlUrl="https://ambcrypto.com/feed/" />
+      <outline text="Bitcoinist" xmlUrl="https://bitcoinist.com/feed/" />
+      <outline text="U.Today Crypto" xmlUrl="https://u.today/rss" />
+      <outline text="CoinGape" xmlUrl="https://coingape.com/feed/" />
+      <outline text="CryptoNews" xmlUrl="https://cryptonews.com/news/feed/" />
+    </outline>
+
+    <outline text="Crypto DeFi dan NFT">
+      <outline text="The Defiant" xmlUrl="https://thedefiant.io/feed" />
+      <outline text="Blockworks" xmlUrl="https://blockworks.co/feed" />
+      <outline text="DL News DeFi" xmlUrl="https://www.dlnews.com/feed/" />
+    </outline>
+
+    <outline text="Crypto Indonesia">
+      <outline text="Coinvestasi" xmlUrl="https://coinvestasi.com/feed" />
+      <outline text="Indodax Blog" xmlUrl="https://indodax.com/blog/feed/" />
+      <outline text="Tokocrypto News" xmlUrl="https://tokocrypto.com/blog/feed/" />
+    </outline>
+
+    
+    
+    
+
+    <outline text="Teknologi Global">
+      <outline text="TechCrunch" xmlUrl="https://techcrunch.com/feed/" />
+      <outline text="The Verge" xmlUrl="https://www.theverge.com/rss/index.xml" />
+      <outline text="Wired" xmlUrl="https://www.wired.com/feed/rss" />
+      <outline text="Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" />
+      <outline text="Engadget" xmlUrl="https://www.engadget.com/rss.xml" />
+      <outline text="MIT Tech Review" xmlUrl="https://www.technologyreview.com/topnews.rss" />
+    </outline>
+
+    
+    
+    
+
+    <outline text="Media Indonesia">
+      <outline text="Kompas" xmlUrl="https://rss.kompas.com/breakingnews" />
+      <outline text="Detik" xmlUrl="https://rss.detik.com/index.php/detikcom" />
+      <outline text="CNN Indonesia" xmlUrl="https://www.cnnindonesia.com/rss" />
+      <outline text="Tempo" xmlUrl="https://rss.tempo.co/nasional" />
+      <outline text="Antara News" xmlUrl="https://www.antaranews.com/rss/top-news" />
+      <outline text="Bisnis.com" xmlUrl="https://www.bisnis.com/rss" />
+      <outline text="CNBC Indonesia" xmlUrl="https://www.cnbcindonesia.com/rss" />
+    </outline>
+
+    
+    
+    
+
+    <outline text="Kesehatan dan Sains">
+      <outline text="WHO News" xmlUrl="https://www.who.int/rss-feeds/news-english.xml" />
+      <outline text="Science Daily" xmlUrl="https://www.sciencedaily.com/rss/all.xml" />
+      <outline text="Nature" xmlUrl="https://www.nature.com/nature.rss" />
+      <outline text="Medical News Today" xmlUrl="https://www.medicalnewstoday.com/rss" />
+    </outline>
+
+    
+    
+    
+
+    <outline text="Olahraga">
+      <outline text="BBC Sport" xmlUrl="http://feeds.bbci.co.uk/sport/rss.xml" />
+      <outline text="ESPN" xmlUrl="https://www.espn.com/espn/rss/news" />
+      <outline text="Sky Sports" xmlUrl="https://www.skysports.com/rss/12040" />
+      <outline text="Bola.net" xmlUrl="https://www.bola.net/rss" />
+    </outline>
+
+  <outline text="Malaysia" title="Malaysia"><outline text="Bernama - Agensi Berita Nasional Malaysia" title="Bernama - Agensi Berita Nasional Malaysia" type="rss" xmlUrl="https://www.bernama.com/en/rss/news.xml" /><outline text="The Star Malaysia" title="The Star Malaysia" type="rss" xmlUrl="https://www.thestar.com.my/rss/News/Nation" /></outline><outline text="Taiwan" title="Taiwan"><outline text="Focus Taiwan - CNA" title="Focus Taiwan - CNA" type="rss" xmlUrl="https://focustaiwan.tw/rss/politics.xml" /><outline text="Taiwan News" title="Taiwan News" type="rss" xmlUrl="https://www.taiwannews.com.tw/rss.xml" /></outline><outline text="China" title="China"><outline text="Xinhua News Agency" title="Xinhua News Agency" type="rss" xmlUrl="https://www.xinhuanet.com/english/rss/worldrss.xml" /><outline text="China Daily World" title="China Daily World" type="rss" xmlUrl="https://www.chinadaily.com.cn/rss/world_rss.xml" /></outline><outline text="Thailand" title="Thailand"><outline text="Bangkok Post" title="Bangkok Post" type="rss" xmlUrl="https://www.bangkokpost.com/rss/data/topstories.xml" /><outline text="The Nation Thailand" title="The Nation Thailand" type="rss" xmlUrl="https://www.nationthailand.com/rss.xml" /></outline><outline text="Papua Nugini" title="Papua Nugini"><outline text="RNZ Pacific" title="RNZ Pacific" type="rss" xmlUrl="https://www.rnz.co.nz/rss/pacific.xml" /><outline text="Post Courier PNG" title="Post Courier PNG" type="rss" xmlUrl="https://www.postcourier.com.pg/feed/" /></outline><outline text="Timor Leste" title="Timor Leste"><outline text="Tatoli - Agência Noticiosa Timor-Leste" title="Tatoli - Agência Noticiosa Timor-Leste" type="rss" xmlUrl="https://tatoli.tl/feed/" /><outline text="East Timor Law Journal" title="East Timor Law Journal" type="rss" xmlUrl="https://www.easttimorlawjournal.org/feed/" /></outline><outline text="Vietnam" title="Vietnam"><outline text="VnExpress International" title="VnExpress International" type="rss" xmlUrl="https://e.vnexpress.net/rss/news.rss" /><outline text="VietnamPlus" title="VietnamPlus" type="rss" xmlUrl="https://en.vietnamplus.vn/rss/home.rss" /></outline><outline text="Rusia" title="Rusia"><outline text="TASS News Agency" title="TASS News Agency" type="rss" xmlUrl="https://tass.com/rss/v2.xml" /><outline text="The Moscow Times" title="The Moscow Times" type="rss" xmlUrl="https://www.themoscowtimes.com/rss/news" /></outline><outline text="Inggris" title="Inggris"><outline text="BBC World News" title="BBC World News" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml" /><outline text="The Guardian World" title="The Guardian World" type="rss" xmlUrl="https://www.theguardian.com/world/rss" /></outline><outline text="Prancis" title="Prancis"><outline text="France 24 English" title="France 24 English" type="rss" xmlUrl="https://www.france24.com/en/rss" /><outline text="RFI English" title="RFI English" type="rss" xmlUrl="https://www.rfi.fr/en/rss" /></outline><outline text="Israel" title="Israel"><outline text="Times of Israel" title="Times of Israel" type="rss" xmlUrl="https://www.timesofisrael.com/feed/" /><outline text="The Jerusalem Post" title="The Jerusalem Post" type="rss" xmlUrl="https://www.jpost.com/Rss/RssFeedsHeadlines.aspx" /></outline></body>
+</opml>

@@ -1,0 +1,6 @@
+.env
+newsbot_env/
+*.log
+__pycache__/
+*.pyc
+*.db.bak

@@ -1,0 +1,33 @@
+[
+  {
+    "chat_id": "1897358998",
+    "name": "x y",
+    "kicked_at": "2026-03-08 22:26:39",
+    "reason": "satu aja"
+  },
+  {
+    "chat_id": "8235342970",
+    "reason": "Tanpa alasan",
+    "kicked_at": "2026-03-10 22:28:03"
+  },
+  {
+    "chat_id": "8418063193",
+    "reason": "Tanpa alasan",
+    "kicked_at": "2026-03-10 22:49:56"
+  },
+  {
+    "chat_id": "9619396968",
+    "reason": "Tanpa alasan",
+    "kicked_at": "2026-03-10 22:50:17"
+  },
+  {
+    "chat_id": "8619396968",
+    "reason": "Tanpa alasan",
+    "kicked_at": "2026-03-10 22:50:48"
+  },
+  {
+    "chat_id": "8235342970",
+    "reason": "Tanpa alasan",
+    "kicked_at": "2026-03-11 03:30:06"
+  }
+]

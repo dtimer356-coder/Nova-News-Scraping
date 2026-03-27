@@ -71,3 +71,47 @@ newsbot_env\Scripts\activate      # Windows
 
 # Install dependencies
 pip install -r requirements.txt
+
+# Terminal 1: Bot Broadcaster (pengirim berita)
+cd ~/Nova-News-Scraping
+source newsbot_env/bin/activate
+python D_NEWS.py
+
+# Terminal 2: Bot Registrasi & Payment Handler
+cd ~/Nova-News-Scraping
+source newsbot_env/bin/activate
+python register.py
+
+# Terminal 3: Dashboard Web
+cd ~/Nova-News-Scraping
+source newsbot_env/bin/activate
+python dashboard.py
+
+## 📁 Struktur Proyek
+Nova-News-Scraping/
+│
+├── 📄 D_NEWS.py                 # Bot utama (broadcaster) - 3500+ baris
+├── 📄 register.py               # Bot registrasi & payment handler - 4000+ baris
+├── 📄 dashboard.py              # Flask web dashboard - 2500+ baris
+│
+├── 📁 static/                   # Assets dashboard (CSS, JS)
+│
+├── 📄 feeds.opml                # Daftar RSS feed (format OPML)
+├── 📄 sentiment_config.yaml     # Kamus sentimen untuk analisis
+├── 📄 requirements.txt          # Python dependencies
+│
+├── 📄 accounts.json             # Data akun user (⚠️ JANGAN COMMIT)
+├── 📄 subscriptions.json        # Data langganan user (⚠️ JANGAN COMMIT)
+├── 📄 payment_pending.json      # Pending pembayaran (⚠️ JANGAN COMMIT)
+├── 📄 kick_log.json             # Riwayat user di-kick
+├── 📄 blacklist.json            # Daftar feed yang diblokir
+├── 📄 sent.json                 # Cache berita yang sudah dikirim
+├── 📄 news_bot.db               # Database SQLite (auto generated)
+│
+├── 📁 backups/                  # Folder backup otomatis
+├── 📁 __pycache__/              # Cache Python
+│
+├── 📄 register.log              # Log bot registrasi
+├── 📄 news.log                  # Log bot broadcaster
+│
+└── 📄 README.md                 # Dokumentasi ini

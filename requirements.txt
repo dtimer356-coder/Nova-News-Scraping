@@ -1,0 +1,31 @@
+# Core
+python-telegram-bot==20.7
+feedparser==6.0.10
+aiohttp==3.9.1
+asyncio==3.4.3
+
+# Web Dashboard
+flask==3.0.0
+flask-cors==4.0.0
+werkzeug==3.0.1
+
+# Database
+sqlite3
+
+# PDF Export
+reportlab==4.0.7
+
+# Translation
+deep-translator==1.11.4
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2023.3
+pyyaml==6.0.1
+requests==2.31.0
+
+# APScheduler for background tasks
+apscheduler==3.10.4
+
+# Monitoring
+psutil==5.9.6

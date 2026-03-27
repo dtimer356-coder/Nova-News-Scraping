@@ -1,6 +1,56 @@
-.env
-newsbot_env/
-*.log
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+venv/
+env/
+ENV/
+
+# Database files (jangan upload data user)
+*.db
 *.db.bak
+*.db-journal
+
+# JSON data files (berisi data user sensitif)
+accounts.json
+subscriptions.json
+payment_pending.json
+pending_users.json
+kick_log.json
+blacklist.json
+sent.json
+stats.json
+*.backup
+
+# Log files
+*.log
+register.log
+news.log
+
+# Backup folder
+backups/
+*.tar.gz
+
+# OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Environment variables
+.env
+.env.local
